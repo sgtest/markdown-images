@@ -1,7 +1,7 @@
-# markdown-images
+# subdirectory
 
 Relative:
-![](img/sg.png)
+![](../img/sg.png)
 
 Absolute:
 ![](/img/sg.png)
